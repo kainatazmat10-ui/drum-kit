@@ -16,6 +16,7 @@ git clone https://github.com/kainatazmat10-ui/drum-kit.git <br>
 Or download ZIP: <br>
 Click Code button on the repository.<br>
 Click Download ZIP.<br>
-Extract and open index.html in your browser.
+Extract and open index.html in your browser.<br>
+![Output]: (images/output.png)
 
 
