@@ -6,13 +6,11 @@ Play sounds either by clicking the buttons or pressing keys on your keyboard.
 - Play sounds via mouse click or keyboard keys
 - Fun visual effects on buttons
 - ##  Controls
-| Button | Key | Sound |
-| Kick   | A   | kick.wav |
-| Clap   | B   | clap.wav |
-| Hi-Hat | C   | hihat.wav |
-| Toms   | D   | tom.wav |
-
+ Button: Kick   | Key: A   | Sound: kick.wav
+ Button: Clap   | Key: B   | Sound: clap.wav
+ Button: Hi-Hat | Key: C   | Sound: hihat.wav
+ Button: Tom    | Key: D   | Sound: tom.wav
 ## 💻 How to Use
-1. Clone or download the repository:
+1. Clone or download the repository.
 
 
