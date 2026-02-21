@@ -14,5 +14,5 @@ Play sounds either by clicking the buttons or pressing keys on your keyboard.
 
 ## 💻 How to Use
 1. Clone or download the repository:
-2. 
+
 
