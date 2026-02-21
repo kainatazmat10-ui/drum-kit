@@ -3,8 +3,8 @@
 A simple interactive drum kit built with HTML, CSS, and JavaScript.  
 Play sounds either by clicking the buttons or pressing keys on your keyboard.
 ## 🎯 Features:
-- Play sounds via mouse click or keyboard keys
-- Fun visual effects on  <br>
+- Play sounds via mouse click or keyboard keys.
+-  Fun visual effects on buttons. <br>
 ##  Controls:
  Button: Kick   | Key: A   | Sound: kick.wav <br>
  Button: Clap   | Key: B   | Sound: clap.wav <br>
