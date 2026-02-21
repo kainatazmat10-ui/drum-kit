@@ -18,7 +18,6 @@ Click Code button on the repository.<br>
 Click Download ZIP.<br>
 Extract and open index.html in your browser.<br>
 ## ![Output]: 
-(images/output.png)
 ![Output](https://github.com/user-attachments/assets/fd28718f-0316-4f77-9c36-f75939e4b1b8)
 
 
